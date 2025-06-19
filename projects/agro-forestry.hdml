@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Autonomous Differential-Drive Steering System for Pothole Avoidance</title>
+  <link rel="stylesheet" href="../css/main.bundle.css">
+  <script src="https://kit.fontawesome.com/4e5a72c756.js"></script>
+</head>
+<body>
+  <section class="section">
+    <div class="container content">
+      <h1 class="title is-2">Autonomous Differential-Drive Steering System for Pothole Avoidance</h1>
+
+      <figure class="image is-3by2">
+        <img src="../img/project-1-cover.png">
+      </figure>
+
+      <h2 class="subtitle is-4">What I built</h2>
+      <ul>
+        <li>⚙️  Dual PID control for left/right wheels, validated on Gazebo</li>
+        <li>📉  Reduced obstacle-avoidance time by 28 % vs. baseline</li>
+        <li>🔗  <a href="https://github.com/yourrepo/pothole-avoidance">Code on GitHub</a></li>
+      </ul>
+
+      <a class="button is-primary mt-5" href="../index.html#projects">← Back to portfolio</a>
+    </div>
+  </section>
+</body>
+</html>
